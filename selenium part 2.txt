@@ -1,0 +1,21 @@
+SELENIUM WEBDRIVER INTRO
+------------------------
+API- application programming interface :-
+---------------------------------------
+1)It is a mediatior
+2)It is assist to do some task.
+
+* If you install java by default it will insatll ---Java Api--->packages---->Classes---->methdos
+
+* Webdriver API-->packages---->Classes---->methdos(packaged them in jar files).
+
+Example-
+
+*Webdriver Interface
+{
+m1(){}
+m2(){}
+}
+class firefox implents Webdriver
+{
+

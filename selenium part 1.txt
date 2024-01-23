@@ -1,0 +1,45 @@
+Selenium :- 1) It is the tool which we have to test web applications.
+2)A fuctional and regression testing is called as autumation testing.
+3)A selenium is set of components /tools  
+4)Selenium is suite which caontains componenets/tools.
+
+Selenium suite
+--------------
+1)IDE
+2)RC
+3)WEB DRIVER 
+4)GRID
+
+Selenium:- 1)Is used for for web based applications and it will not destop application.(autoIT,sikull)
+2)For selenium doesnt have support.(forums avaiable) 
+3)Reporting facility.(testng,extens)
+4)images we cant verify. (certain level)
+
+For every disadvantage we can use 3rd party tools for selenum.
+
+Selenium componets:-
+------------------ 
+IDE--> plug in for firefox browser,record and playback tool.
+RC-->RC server will intreact with browser and excute automation test case(in direct process).
+WEB DRIVER-->Is like api it will connect through browser directly .(Excute autmation test case directly).
+GRID--> It can excute the test cases remotely.
+
+Topics:-
+-----
+Java
+web driver 
+AutoIT
+TestNG framework
+
+
+Functional testing -Behavour of application.
+Retesting:-Executing same test case with multiple sets of data(Test with postive and negative Scenerios).
+Regression testing :-Executing or re-validating defect in newer bulids and beacuse of those fixes make sure there is no side effects for other componeents(impact analysis,impact testing).
+
+
+Fuctional testing:-
+------------------
+1)error handling.
+2)links.
+3)data base testing.
+4)object prperties.

@@ -1,0 +1,43 @@
+Diskson Medical associates MD
+-------------------------------
+* LOGO Missing
+
+EDUCATION:- 1)Date fields - Incorrect
+2)Other graduate level education:-Degree dropdown size increment 
+
+LICENCES AND CERTIFICATIONS:-1)Mandatory fields missing
+2)I have not obtained licences yet -Check box missing
+3)Other CDS(specify)- letters are showing in bold colour
+4)Medicaid provider number and Medicare provider number :should be in beside the text box.
+
+PROFESSIONAL /SPECIALITY INFORMATION:-1)Date fields
+2)IF NOT BOARD CERTIFIED, INDICATE ANY OF THE FOLLOWING THAT APPLY- Need clarfication
+
+Hospital Affiliations:-1)Please check this box and complete and submit Attachment 19 if you have additional current hospital- "D" is missing insted of that we have number "19"
+
+References:-1) [ii]reference:city -text box size increment
+
+PREVIOUS MALPRACTICE INSURANCE:remove this field
+
+Practice Location Information:-Field missing.
+
+Other Professsional degree:-1)State-drop down data missing
+2)Degree-Drop down data missing
+3)postal code -limit missing 
+
+Other post grad  education:-1)postal code 
+2)4th and 5th -Total fields need to check
+
+Other Work History:-1)postal code
+2) 3rd and 4th fields - Data feilds issue
+
+Mal practice claim history:-1)Does not apply -not working
+2)Amount of award or settlement -($)-symbol is missing 
+3)postal code - limit missing 
+
+Note :1)Error message should be in one line 
+Example fields:-Email,postal code,date fields etc.
+
+2) Need to check all Date fields formate as per give mantis formate
+
+3)Form not submitting  
